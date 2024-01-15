@@ -17,6 +17,6 @@ router.use(auth);
 
 router.use('/users', userRouter);
 router.use('/movies', movierouter);
-router.use('*', auth, (req, res, next) => next(new NotFoundError('Такой страницы не существует')));
+router.use('*', (req, res, next) => next(new NotFoundError('Такой страницы не существует')));
 
 module.exports = router;
