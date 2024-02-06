@@ -13,11 +13,11 @@
 ## Как запустить?
 
 1. Клонировать репозиторий (`git clone https://github.com/Trench-Dog/movies-explorer-api.git`);
-2. Перейдя в папку проекта запустить установку зависимостей  (`npm i` / `npm imstall`);
+2. Перейдя в папку проекта запустить установку зависимостей (`npm i` / `npm imstall`);
 3. Запустить сервер командами `npm run start` или `npm run dev` (запуск с хот-релоадом);
 
 ## Как подключиться?
 
-Public IP - 158.160.33.88
+Public IP - 51.250.95.201
 
 https://api.trenchdogmovie.nomoredomainsmonster.ru
