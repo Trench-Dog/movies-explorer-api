@@ -18,6 +18,6 @@
 
 ## Как подключиться?
 
-Public IP - 158.160.33.88
+Public IP - 51.250.95.201
 
 https://api.trenchdogmovie.nomoredomainsmonster.ru
